@@ -1,4 +1,4 @@
-# csv2js.sh convert CSV to .js (JSON)
+# csv2js.sh convert .csv to .js (JSON)
 
 Prerequisite:
  - The input csv file must exist
@@ -12,4 +12,5 @@ Usage:
     csv2js.sh -i=INPUTFILE -o=OUTPUTFILE
 
 This utility assumes the .csv file is a single column
+
 This utility will overwrite OUTPUTFILE

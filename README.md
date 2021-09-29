@@ -10,7 +10,7 @@ Notes:
 
 Usage:
 
-: csv2js.sh -i=INPUTFILE -o=OUTPUTFILE
+      csv2js.sh -i=INPUTFILE -o=OUTPUTFILE
 
 This utility assumes the .csv file is a single column
 

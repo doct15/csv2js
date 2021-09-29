@@ -9,7 +9,8 @@ Notes:
  - Can deal with 1 empty line at the end of the csv (but not more than 1)
 
 Usage:
-    csv2js.sh -i=INPUTFILE -o=OUTPUTFILE
+
+: csv2js.sh -i=INPUTFILE -o=OUTPUTFILE
 
 This utility assumes the .csv file is a single column
 
